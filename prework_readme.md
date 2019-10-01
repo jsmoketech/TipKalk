@@ -27,18 +27,19 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/jsmoketech/TipKalk/blob/master/prework_calc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-Added too many linked obects that created errors.
+
+Added too many linked obects that created errors. Tough to figure out what exactly the errors are based on swift debugging.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [jsmoketech]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
